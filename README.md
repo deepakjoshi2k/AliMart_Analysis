@@ -28,3 +28,5 @@ These insights can help Ali Mart make informed decisions for future promotional 
 ## Conclusion
 
 Overall, the analysis provides valuable insights into the performance of promotional campaigns conducted by Ali Mart during Diwali 2023 and Sankranti 2024. By leveraging data analytics, Ali Mart can enhance its marketing strategies, attract more customers, and drive higher sales during festive seasons.
+
+![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
